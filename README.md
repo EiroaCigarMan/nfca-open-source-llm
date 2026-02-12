@@ -1,5 +1,7 @@
 # Secure and Affordable In-House AI
 
+![initial-image](https://github.com/EiroaCigarMan/nfca-open-source-llm/blob/main/assets/social-preview.png)
+
 **A Practical Guide to Local LLM Deployment for Law Enforcement**
 
 Companion resource for the "Secure and Affordable In-House AI: The Strategic Imperative for Local LLMs" presentation delivered to the National Fusion Center Association (NFCA) and law enforcement intelligence professionals.
