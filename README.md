@@ -10,12 +10,21 @@ This repository provides the depth that a time-limited presentation cannot -- pa
 
 ---
 
-Contact Information: 
-Sergeant Johann Ortega
-Dallas Fusion Center/ Real-Time Crime Center
-johann.ortega@dallaspolice.gov 
-214-671-3482 (main)
-214-406-8248 (cell)
+> **Contact Information**
+>
+> **Sergeant Johann Ortega**
+> Dallas Fusion Center / Real-Time Crime Center
+>
+> 📧 johann.ortega@dallaspolice.gov
+> 📞 214-671-3482 (main) · 📱 214-406-8248 (cell)
+
+---
+
+## Updates
+
+| Date | Change |
+|------|--------|
+| April 2026 | [Model Selection](docs/05-model-selection.md) updated — Quick Reference Table and Model Profiles now reflect the models actively deployed in production. Previous guide covered generic Ollama catalog models; this version documents the actual deployment stack. |
 
 ---
 
